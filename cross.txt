@@ -1,72 +1,71 @@
--n-1
--n-title on2
--n-descr
--n-package
--n-https://www.google.com/search?q=githup+raw+data+not+update&ie=utf-8&oe=utf-8&client=firefox-b-ab
--n-2
--n-title
--n-descr
--n-package
--n-img url
--n-3
+1
+title on2
+descr
+package
+https://www.google.com/search?q=githup+raw+data+not+update&ie=utf-8&oe=utf-8&client=firefox-b-ab
+2
 title
 descr
 package
 img url
--n-4
+3
 title
 descr
 package
 img url
--n-5
+4
 title
 descr
 package
 img url
--n-6
+5
 title
 descr
 package
 img url
--n-7
+6
 title
 descr
 package
 img url
--n-8
+7
 title
 descr
 package
 img url
--n-9
+8
 title
 descr
 package
 img url
--n-10
+9
 title
 descr
 package
 img url
--n-if package selected equal package below. then choose package number 
--n-package
--n-1
--n-package
--n-2
--n-package
--n-3
--n-package
--n-4
--n-package
--n-5
--n-package
--n-6
--n-package
--n-7
--n-package
--n-8
--n-package
--n-9
--n-packageok 
--n-10
--n-packageok 
+10
+title
+descr
+package
+img url
+if package selected equal package below. then choose package number 
+package
+1
+package
+2
+package
+3
+package
+4
+package
+5
+package
+6
+package
+7
+package
+8
+package
+9
+packageok 
+10
