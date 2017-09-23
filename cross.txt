@@ -2,7 +2,7 @@
 title 1
 descr
 package
-https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/gamecontroller-512.png
+mm
 2
 title 2
 descr
